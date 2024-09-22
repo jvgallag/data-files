@@ -392,21 +392,21 @@
           "billEndDate": "2024-11-09",
           "billStartDate": "2024-11-29",
           "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "kW": 680
         },
         {
           "id": "f1059864-7748-45ed-8c16-36d38bdfcfe3",
           "billEndDate": "2024-11-09",
           "billStartDate": "2024-11-29",
           "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "kW": 672
         },
         {
           "id": "8096bbf2-6d8f-4976-b1ef-240771ad9151",
           "billEndDate": "2024-11-09",
           "billStartDate": "2024-11-29",
           "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "kW": 660
         },
         {
           "id": "6218245f-02be-405f-9e28-8e31f8f013d5",
@@ -420,7 +420,7 @@
           "billEndDate": "2024-11-09",
           "billStartDate": "2024-11-29",
           "intervalTime": "2023-08-23 07:45:00",
-          "kW": 600
+          "kW": 643
         },
         {
           "id": "2760ae47-3383-42eb-bfc7-5e72657aa0d5",
@@ -711,50 +711,50 @@
       {
         "id": "1",
         "date": "2019-01-01",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 140.0,
+        "meanHourlyUsage": 20.0,
         "weekDay": "Monday"
       },
       {
         "id": "2",
         "date": "2019-01-02",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 180.0,
+        "meanHourlyUsage": 40.0,
         "weekDay": "Tuesday"
       },
       {
         "id": "3",
         "date": "2019-01-03",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 240.0,
+        "meanHourlyUsage": 60.0,
         "weekDay": "Wednesday"
       },
       {
         "id": "4",
         "date": "2019-01-04",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 280.0,
+        "meanHourlyUsage": 70.0,
         "weekDay": "Thursday"
       },
       {
         "id": "5",
         "date": "2019-01-05",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 160.0,
+        "meanHourlyUsage": 40.0,
         "weekDay": "Friday"
       },
       {
         "id": "6",
         "date": "2019-01-06",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 60.0,
+        "meanHourlyUsage": 15.0,
         "weekDay": "Saturday"
       },
       {
         "id": "7",
         "date": "2019-01-07",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 40.0,
+        "meanHourlyUsage": 10.0,
         "weekDay": "Sunday"
       }
     ],
@@ -762,50 +762,50 @@
       {
         "id": "1",
         "date": "2019-01-01",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 1000.0,
+        "meanHourlyUsage": 250.0,
         "weekDay": "Monday"
       },
       {
         "id": "2",
         "date": "2019-01-02",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 1600.0,
+        "meanHourlyUsage": 400.0,
         "weekDay": "Tuesday"
       },
       {
         "id": "3",
         "date": "2019-01-03",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 2000.0,
+        "meanHourlyUsage": 500.0,
         "weekDay": "Wednesday"
       },
       {
         "id": "4",
         "date": "2019-01-04",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 2400.0,
+        "meanHourlyUsage": 600.0,
         "weekDay": "Thursday"
       },
       {
         "id": "5",
         "date": "2019-01-05",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 1600.0,
+        "meanHourlyUsage": 400.0,
         "weekDay": "Friday"
       },
       {
         "id": "6",
         "date": "2019-01-06",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 600.0,
+        "meanHourlyUsage": 150.0,
         "weekDay": "Saturday"
       },
       {
         "id": "7",
         "date": "2019-01-07",
-        "usage": 0.0,
-        "meanHourlyUsage": 0.0,
+        "usage": 400.0,
+        "meanHourlyUsage": 100.0,
         "weekDay": "Sunday"
       }
     ]
@@ -814,12 +814,12 @@
     "averageCircuitProfile": [
       {
         "weekDay": "Mon",
-        "circuit_1": 6.8,
-        "circuit_2": 5.9,
+        "circuit_1": 116.8,
+        "circuit_2": 55.9,
         "circuit_3": 9.7,
-        "circuit_4": 4.5,
+        "circuit_4": 14.5,
         "circuit_5": 7.2,
-        "circuit_6": 8.1,
+        "circuit_6": 18.1,
         "circuit_7": 3.9,
         "circuit_8": 6.3,
         "circuit_9": 5.5,
@@ -827,12 +827,12 @@
       },
       {
         "weekDay": "Tue",
-        "circuit_1": 8.2,
-        "circuit_2": 6.5,
+        "circuit_1": 108.2,
+        "circuit_2": 56.5,
         "circuit_3": 5.8,
-        "circuit_4": 4.9,
+        "circuit_4": 24.9,
         "circuit_5": 7.6,
-        "circuit_6": 7.9,
+        "circuit_6": 27.9,
         "circuit_7": 4.2,
         "circuit_8": 6.7,
         "circuit_9": 5.1,
@@ -840,12 +840,12 @@
       },
       {
         "weekDay": "Wed",
-        "circuit_1": 7.5,
-        "circuit_2": 7.8,
+        "circuit_1": 117.5,
+        "circuit_2": 57.8,
         "circuit_3": 6.2,
-        "circuit_4": 5.1,
+        "circuit_4": 35.1,
         "circuit_5": 8.3,
-        "circuit_6": 7.2,
+        "circuit_6": 47.2,
         "circuit_7": 4.7,
         "circuit_8": 5.9,
         "circuit_9": 6.4,
@@ -853,12 +853,12 @@
       },
       {
         "weekDay": "Thr",
-        "circuit_1": 8.0,
-        "circuit_2": 4.1,
+        "circuit_1": 118.0,
+        "circuit_2": 54.1,
         "circuit_3": 4.9,
-        "circuit_4": 4.7,
+        "circuit_4": 34.7,
         "circuit_5": 7.8,
-        "circuit_6": 8.5,
+        "circuit_6": 68.5,
         "circuit_7": 5.2,
         "circuit_8": 6.1,
         "circuit_9": 5.7,
@@ -866,12 +866,12 @@
       },
       {
         "weekDay": "Fri",
-        "circuit_1": 6.9,
-        "circuit_2": 5.7,
+        "circuit_1": 106.9,
+        "circuit_2": 55.7,
         "circuit_3": 5.1,
-        "circuit_4": 5.3,
+        "circuit_4": 45.3,
         "circuit_5": 7.4,
-        "circuit_6": 8.0,
+        "circuit_6": 28.0,
         "circuit_7": 4.5,
         "circuit_8": 6.5,
         "circuit_9": 5.9,
@@ -879,8 +879,8 @@
       },
       {
         "weekDay": "Sat",
-        "circuit_1": 3.2,
-        "circuit_2": 2.8,
+        "circuit_1": 33.2,
+        "circuit_2": 52.8,
         "circuit_3": 1.9,
         "circuit_4": 1.7,
         "circuit_5": 3.5,
@@ -892,8 +892,8 @@
       },
       {
         "weekDay": "Sun",
-        "circuit_1": 2.5,
-        "circuit_2": 1.7,
+        "circuit_1": 22.5,
+        "circuit_2": 51.7,
         "circuit_3": 0.8,
         "circuit_4": 1.3,
         "circuit_5": 2.8,
@@ -905,7 +905,7 @@
       }
     ],
     "highLowConsumption": [
-      { "type": "lowest", "value": 28.1, "fill": "hsl(var(--chart-2))" },
+      { "type": "lowest", "value": 8.1, "fill": "hsl(var(--chart-2))" },
       { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
       { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
       { "type": "highest", "value": 28.1, "fill": "hsl(var(--primary)" },
@@ -916,42 +916,42 @@
     "highestConsumption": [
       {
         "month": "january",
-        "consumption": 275,
+        "consumption": 75,
         "fill": "var(--color-january)"
       },
       {
         "month": "february",
-        "consumption": 200,
+        "consumption": 80,
         "fill": "var(--color-february)"
       },
-      { "month": "march", "consumption": 187, "fill": "var(--color-march)" },
-      { "month": "april", "consumption": 173, "fill": "var(--color-april)" },
-      { "month": "may", "consumption": 90, "fill": "var(--color-may)" },
-      { "month": "june", "consumption": 114, "fill": "var(--color-june)" }
+      { "month": "march", "consumption": 87, "fill": "var(--color-march)" },
+      { "month": "april", "consumption": 103, "fill": "var(--color-april)" },
+      { "month": "may", "consumption": 190, "fill": "var(--color-may)" },
+      { "month": "june", "consumption": 214, "fill": "var(--color-june)" }
     ],
     "lowestConsumption": [
       {
         "month": "january",
-        "consumption": 275,
+        "consumption": 55,
         "fill": "var(--color-january)"
       },
       {
         "month": "february",
-        "consumption": 173,
+        "consumption": 53,
         "fill": "var(--color-february)"
       },
-      { "month": "march", "consumption": 114, "fill": "var(--color-march)" },
-      { "month": "april", "consumption": 329, "fill": "var(--color-april)" },
-      { "month": "may", "consumption": 275, "fill": "var(--color-may)" },
+      { "month": "march", "consumption": 74, "fill": "var(--color-march)" },
+      { "month": "april", "consumption": 29, "fill": "var(--color-april)" },
+      { "month": "may", "consumption": 25, "fill": "var(--color-may)" },
       { "month": "june", "consumption": 110, "fill": "var(--color-june)" }
     ],
     "averageHourlyConsumption": {
-      "lower": 115.5,
-      "higher": 21.3,
-      "current": 21.3,
+      "lower": 15.5,
+      "higher": 121.3,
+      "current": 71.3,
       "hitsPercentageLower": 25,
-      "hitsPercentageHigher": 13,
-      "hitsPercentageMedian": 5
+      "hitsPercentageHigher": 15,
+      "hitsPercentageMedian": 60
     },
     "runtimeAverageConsumption": [
       { "hour": 0, "minutes": 2, "consumption": 334 },
