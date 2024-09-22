@@ -95,6 +95,7 @@
         "totalSpend": 378784,
         "totalKwh": 1557684,
         "avgDollarPerKwh": 0.24,
+        "totalDemandKwh": 12312,
         "totalDemand": 202498,
         "totalDemandCost": 51514
       },
@@ -104,6 +105,7 @@
         "totalSpend": 469946,
         "totalKwh": 1777076,
         "avgDollarPerKwh": 0.26,
+        "totalDemandKwh": 12312,
         "totalDemand": 300325,
         "totalDemandCost": 79420
       },
@@ -113,6 +115,7 @@
         "totalSpend": 459950,
         "totalKwh": 1575513,
         "avgDollarPerKwh": 0.29,
+        "totalDemandKwh": 12312,
         "totalDemand": 222147,
         "totalDemandCost": 64852
       },
@@ -122,6 +125,7 @@
         "totalSpend": 227544,
         "totalKwh": 1011194,
         "avgDollarPerKwh": 0.3,
+        "totalDemandKwh": 12312,
         "totalDemand": 141567,
         "totalDemandCost": 31856
       }
