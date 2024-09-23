@@ -97,7 +97,7 @@
         "avgDollarPerKwh": 0.24,
         "totalDemandKwh": 12312,
         "totalDemand": 202498,
-        "totalDemandCost": 51514
+        "totalDemandCost": 13.6
       },
       {
         "id": "1e1db0bb-55cf-48af-83f1-2eab813c8e24",
@@ -107,7 +107,7 @@
         "avgDollarPerKwh": 0.26,
         "totalDemandKwh": 12312,
         "totalDemand": 300325,
-        "totalDemandCost": 79420
+        "totalDemandCost": 16.9
       },
       {
         "id": "702d8195-1b59-47b3-9b77-0b1ad52946a2",
@@ -117,7 +117,7 @@
         "avgDollarPerKwh": 0.29,
         "totalDemandKwh": 12312,
         "totalDemand": 222147,
-        "totalDemandCost": 64852
+        "totalDemandCost": 14.1
       },
       {
         "id": "52b99f93-4f26-42ca-abc3-69b3c2855b66",
@@ -127,7 +127,7 @@
         "avgDollarPerKwh": 0.3,
         "totalDemandKwh": 12312,
         "totalDemand": 141567,
-        "totalDemandCost": 31856
+        "totalDemandCost": 13.9
       }
     ],
     "actualKWhPriceTable": {
@@ -150,19 +150,19 @@
     }
   },
   "peak": {
-    "demandCost": [
-      { "month": "Jan", "cost": 5537.09, "consumption": 334 },
-      { "month": "Feb", "cost": 6015.84, "consumption": 361 },
-      { "month": "Mar", "cost": 5784.96, "consumption": 347 },
-      { "month": "Apr", "cost": 6292.22, "consumption": 377 },
-      { "month": "May", "cost": 5954.29, "consumption": 350 },
-      { "month": "Jun", "cost": 6079.58, "consumption": 343 },
-      { "month": "Jul", "cost": 7841.89, "consumption": 422 },
-      { "month": "Aug", "cost": 8679.65, "consumption": 475 },
-      { "month": "Sep", "cost": 8708.37, "consumption": 474 },
-      { "month": "Oct", "cost": 1618.63, "consumption": 120 },
-      { "month": "Nov", "cost": 6251.25, "consumption": 360.3 },
-      { "month": "Dec", "cost": 6251.25, "consumption": 360.3 }
+    "Demand Cost and Consumption": [
+      { "month": "Jan", "cost": 13368.09, "consumption": 605 },
+      { "month": "Feb", "cost": 12338.84, "consumption": 530 },
+      { "month": "Mar", "cost": 12273.96, "consumption": 526 },
+      { "month": "Apr", "cost": 13016.22, "consumption": 549 },
+      { "month": "May", "cost": 12288.29, "consumption": 517 },
+      { "month": "Jun", "cost": 13693.58, "consumption": 577 },
+      { "month": "Jul", "cost": 12927.89, "consumption": 540 },
+      { "month": "Aug", "cost": 13167.65, "consumption": 550 },
+      { "month": "Sep", "cost": 12834.37, "consumption": 600 },
+      { "month": "Oct", "cost": 13434.63, "consumption": 627 },
+      { "month": "Nov", "cost": 14324.25, "consumption": 652.3 },
+      { "month": "Dec", "cost": 13972.25, "consumption": 636.3 }
     ],
     "frequencyTopPeaks": [
       { "frequency": 0, "hour": 1 },
